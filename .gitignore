@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Arduino / PlatformIO
+.pio/
+build/
+# Datasets e pesos de modelo
+*.pt
+*.onnx
+datasets/
+# Sistema / editores
+.DS_Store
+.vscode/
+.idea/
