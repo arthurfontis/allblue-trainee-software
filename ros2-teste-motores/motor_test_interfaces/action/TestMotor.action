@@ -1,0 +1,11 @@
+# Goal: motor a ser testado (0 a 6)
+int32 motor_id
+---
+# Result
+bool success
+string message
+---
+# Feedback
+int32 active_motor
+float32 elapsed_time
+string status
