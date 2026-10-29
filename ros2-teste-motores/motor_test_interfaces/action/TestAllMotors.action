@@ -1,0 +1,12 @@
+# Goal: vazio (testa todos os motores)
+---
+# Result
+bool success
+string message
+---
+# Feedback
+int32[] active_motors
+int32[] tested_motors
+int32 step
+int32 total_steps
+string status
