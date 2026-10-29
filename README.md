@@ -13,6 +13,7 @@ Repositório com os códigos e anotações das atividades do trainee de **Softwa
 | [`aula02/`](aula02) | Aula 2 |
 | [`sensores-mpu6050/`](sensores-mpu6050) | Atividades com o sensor GY-521 / MPU-6050 (acelerômetro + giroscópio, I²C) |
 | [`roboflow/`](roboflow) | Notas sobre a anotação de imagens (minas) no Roboflow |
+| [`ros2-teste-motores/`](ros2-teste-motores) | Atividade de ROS 2: sistema de teste dos 7 motores do AUV (actions + interface gráfica) |
 
 ## Como usar
 
@@ -24,3 +25,4 @@ Cada pasta tem um `README.md` explicando a atividade, o que foi feito e como rod
 - [ ] Aula 2
 - [ ] Atividade com sensores (MPU-6050)
 - [ ] Anotação no Roboflow
+- [x] Atividade de ROS 2 — teste dos motores do AUV
